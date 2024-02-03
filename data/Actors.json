@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"protagonista","characterIndex":0,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Protagonista","traits":[],"initialLevel":1,"maxLevel":99,"name":"Greper","nickname":"","note":"","profile":"Um heroi treinado em árduos campos de batalha."},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"","classId":3,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Frida","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"dog2","characterIndex":0,"characterName":"Nature","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cachorro","nickname":"","note":"","profile":""}
+]
